@@ -18,7 +18,7 @@
 
 
 
-# @app.route('/save-signature', methods=['POST']) 
+# @app.route('/signature-register', methods=['POST']) 
 # def save_signature():
 #     try:
 #         signature = request.json.get('signature')
